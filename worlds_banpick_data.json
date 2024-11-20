@@ -1,0 +1,2953 @@
+[
+    {
+        "date": "2024.11.03",
+        "stage": "결승전 5세트",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "잭스",
+            "카이사",
+            "아리",
+            "자르반 4세",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "바루스",
+            "애쉬",
+            "스카너",
+            "라칸",
+            "레나타 글라스크"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "그라가스",
+            "갈리오",
+            "자야",
+            "뽀삐",
+            "신 짜오"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "칼리스타",
+            "오공",
+            "킨드레드"
+        ]
+    },
+    {
+        "date": "2024.11.03",
+        "stage": "결승전 4세트",
+        "wTeam_name": "T1",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "애쉬",
+            "레나타 글라스크",
+            "사일러스",
+            "럼블",
+            "뽀삐"
+        ],
+        "wTeam_bans": [
+            "잭스",
+            "요네",
+            "바루스",
+            "블리츠크랭크",
+            "신 짜오"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "나르",
+            "직스",
+            "스몰더",
+            "세주아니",
+            "라칸"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "스카너",
+            "칼리스타",
+            "바이",
+            "녹턴"
+        ]
+    },
+    {
+        "date": "2024.11.03",
+        "stage": "결승전 3세트",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "칼리스타",
+            "럼블",
+            "블리츠크랭크",
+            "킨드레드",
+            "갈리오"
+        ],
+        "wTeam_bans": [
+            "바루스",
+            "애쉬",
+            "스카너",
+            "세주아니",
+            "드레이븐"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "잭스",
+            "레나타 글라스크",
+            "사일러스",
+            "바이",
+            "자야"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "니코",
+            "아칼리",
+            "오공"
+        ]
+    },
+    {
+        "date": "2024.11.03",
+        "stage": "결승전 2세트",
+        "wTeam_name": "T1",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "칼리스타",
+            "레나타 글라스크",
+            "사일러스",
+            "오른",
+            "녹턴"
+        ],
+        "wTeam_bans": [
+            "잭스",
+            "요네",
+            "바루스",
+            "킨드레드",
+            "오공"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "애쉬",
+            "럼블",
+            "갈리오",
+            "신 짜오",
+            "라칸"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "스카너",
+            "바이",
+            "나르",
+            "세주아니"
+        ]
+    },
+    {
+        "date": "2024.11.02",
+        "stage": "결승전 1세트",
+        "wTeam_name": "T1",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "나르",
+            "세주아니",
+            "케이틀린",
+            "브라움"
+        ],
+        "wTeam_bans": [
+            "잭스",
+            "카이사",
+            "칼리스타",
+            "레나타 글라스크",
+            "라칸"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "애쉬",
+            "스카너",
+            "사일러스",
+            "럼블",
+            "렐"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "바이",
+            "바루스",
+            "직스",
+            "진"
+        ]
+    },
+    {
+        "date": "2024.10.28",
+        "stage": "4강 2경기 4세트",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "애쉬",
+            "니달리",
+            "트리스타나",
+            "뽀삐",
+            "마오카이"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "자야",
+            "사일러스",
+            "바드",
+            "오리아나"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "바루스",
+            "스카너",
+            "잭스",
+            "아리",
+            "파이크"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "스몰더",
+            "오로라",
+            "크산테",
+            "브라움"
+        ]
+    },
+    {
+        "date": "2024.10.28",
+        "stage": "4강 2경기 3세트",
+        "wTeam_name": "T1",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "애쉬",
+            "레나타 글라스크",
+            "그라가스",
+            "아칼리",
+            "바이"
+        ],
+        "wTeam_bans": [
+            "니달리",
+            "스몰더",
+            "요네",
+            "카이사",
+            "트위치"
+        ],
+        "lTeam_name": "Gen.G eSports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "잭스",
+            "아리",
+            "녹턴",
+            "이즈리얼",
+            "렐"
+        ],
+        "lTeam_bans": [
+            "자야",
+            "칼리스타",
+            "오로라",
+            "킨드레드",
+            "사일러스"
+        ]
+    },
+    {
+        "date": "2024.10.27",
+        "stage": "4강 2경기 2세트",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "잭스",
+            "아리",
+            "카이사",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "자야",
+            "애쉬",
+            "갈리오",
+            "오리아나"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "케이틀린",
+            "킨드레드",
+            "브라움",
+            "마오카이",
+            "사일러스"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "스몰더",
+            "오로라",
+            "룰루",
+            "레나타 글라스크"
+        ]
+    },
+    {
+        "date": "2024.10.27",
+        "stage": "4강 2경기 1세트",
+        "wTeam_name": "T1",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "애쉬",
+            "레나타 글라스크",
+            "바이",
+            "그라가스"
+        ],
+        "wTeam_bans": [
+            "니달리",
+            "스몰더",
+            "잭스",
+            "블리츠크랭크",
+            "이즈리얼"
+        ],
+        "lTeam_name": "Gen.G eSports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "스카너",
+            "레넥톤",
+            "사일러스",
+            "직스",
+            "레오나"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "칼리스타",
+            "자야",
+            "세주아니",
+            "럼블"
+        ]
+    },
+    {
+        "date": "2024.10.26",
+        "stage": "4강 1경기 3세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "이즈리얼",
+            "마오카이",
+            "럼블",
+            "세주아니"
+        ],
+        "wTeam_bans": [
+            "사일러스",
+            "칼리스타",
+            "라칸",
+            "아리",
+            "스몰더"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "스카너",
+            "카이사",
+            "아칼리",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "오리아나",
+            "애쉬",
+            "나르",
+            "브랜드"
+        ]
+    },
+    {
+        "date": "2024.10.26",
+        "stage": "4강 1경기 2세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "칼리스타",
+            "마오카이",
+            "레나타 글라스크",
+            "루시안",
+            "엘리스"
+        ],
+        "wTeam_bans": [
+            "사일러스",
+            "라칸",
+            "요네",
+            "스몰더",
+            "카시오페아"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "스카너",
+            "직스",
+            "렐",
+            "신드라"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "오리아나",
+            "애쉬",
+            "브랜드",
+            "나르"
+        ]
+    },
+    {
+        "date": "2024.10.26",
+        "stage": "4강 1경기 1세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "칼리스타",
+            "레나타 글라스크",
+            "뽀삐",
+            "브랜드"
+        ],
+        "wTeam_bans": [
+            "사일러스",
+            "라칸",
+            "애쉬",
+            "직스",
+            "카이사"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "스카너",
+            "스몰더",
+            "바루스",
+            "니코"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "오리아나",
+            "마오카이",
+            "크산테",
+            "나르"
+        ]
+    },
+    {
+        "date": "2024.10.21",
+        "stage": "8강 4경기 5세트",
+        "wTeam_name": "FlyQuest",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "피들스틱",
+            "칼리스타",
+            "세트",
+            "알리스타"
+        ],
+        "wTeam_bans": [
+            "오로라",
+            "니달리",
+            "잭스",
+            "라칸",
+            "미스 포츈"
+        ],
+        "lTeam_name": "Gen.G eSports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "스카너",
+            "스몰더",
+            "럼블",
+            "직스",
+            "마오카이"
+        ],
+        "lTeam_bans": [
+            "아이번",
+            "애쉬",
+            "아무무",
+            "갈리오",
+            "렐"
+        ]
+    },
+    {
+        "date": "2024.10.21",
+        "stage": "8강 4경기 4세트",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "애쉬",
+            "니달리",
+            "트리스타나",
+            "마오카이",
+            "크산테"
+        ],
+        "wTeam_bans": [
+            "세라핀",
+            "아이번",
+            "스카너",
+            "신 짜오",
+            "바이"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "이즈리얼",
+            "오리아나",
+            "라칸",
+            "레넥톤",
+            "세주아니"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "잭스",
+            "렐",
+            "노틸러스"
+        ]
+    },
+    {
+        "date": "2024.10.20",
+        "stage": "8강 4경기 3세트",
+        "wTeam_name": "FlyQuest",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "카이사",
+            "라칸",
+            "우르곳",
+            "제리"
+        ],
+        "wTeam_bans": [
+            "오로라",
+            "잭스",
+            "칼리스타",
+            "크산테",
+            "렐"
+        ],
+        "lTeam_name": "Gen.G eSports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "세주아니",
+            "이즈리얼",
+            "사일러스",
+            "레넥톤",
+            "브라움"
+        ],
+        "lTeam_bans": [
+            "애쉬",
+            "아이번",
+            "요네",
+            "올라프",
+            "오리아나"
+        ]
+    },
+    {
+        "date": "2024.10.20",
+        "stage": "8강 4경기 2세트",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "애쉬",
+            "니달리",
+            "잭스",
+            "노틸러스",
+            "카사딘"
+        ],
+        "wTeam_bans": [
+            "세라핀",
+            "아이번",
+            "스카너",
+            "신 짜오",
+            "바이"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오리아나",
+            "이즈리얼",
+            "라칸",
+            "누누와 윌럼프",
+            "레넥톤"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "녹턴",
+            "트리스타나",
+            "렐"
+        ]
+    },
+    {
+        "date": "2024.10.20",
+        "stage": "8강 4경기 1세트",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "스카너",
+            "럼블",
+            "아리",
+            "징크스",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "아이번",
+            "레넥톤",
+            "오리아나",
+            "카시오페아",
+            "아무무"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "애쉬",
+            "세라핀",
+            "갈리오",
+            "신 짜오",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "이즈리얼",
+            "렐",
+            "라칸"
+        ]
+    },
+    {
+        "date": "2024.10.19",
+        "stage": "8강 3경기 3세트",
+        "wTeam_name": "Top Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "사일러스",
+            "신 짜오",
+            "카이사",
+            "케넨",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "라칸",
+            "칼리스타",
+            "럼블",
+            "레나타 글라스크",
+            "바이"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "나르",
+            "갈리오",
+            "자야",
+            "뽀삐",
+            "파이크"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "스카너",
+            "잭스",
+            "렐"
+        ]
+    },
+    {
+        "date": "2024.10.19",
+        "stage": "8강 3경기 2세트",
+        "wTeam_name": "Top Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "사일러스",
+            "이즈리얼",
+            "렐",
+            "갈리오",
+            "비에고"
+        ],
+        "wTeam_bans": [
+            "나르",
+            "칼리스타",
+            "세주아니",
+            "오리아나",
+            "트리스타나"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "럼블",
+            "라칸",
+            "자야",
+            "신 짜오",
+            "아리"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "스카너",
+            "레넥톤",
+            "크산테"
+        ]
+    },
+    {
+        "date": "2024.10.19",
+        "stage": "8강 3경기 1세트",
+        "wTeam_name": "Top Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "럼블",
+            "아이번",
+            "트리스타나",
+            "레오나",
+            "미스 포츈"
+        ],
+        "wTeam_bans": [
+            "나르",
+            "칼리스타",
+            "바이",
+            "애쉬",
+            "라칸"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "사일러스",
+            "세주아니",
+            "카밀",
+            "케이틀린",
+            "바드"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "스카너",
+            "이즈리얼",
+            "뽀삐"
+        ]
+    },
+    {
+        "date": "2024.10.18",
+        "stage": "8강 2경기 4세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "사일러스",
+            "뽀삐",
+            "나르",
+            "미스 포츈",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "스카너",
+            "애쉬",
+            "오공",
+            "바이"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "라칸",
+            "카이사",
+            "킨드레드",
+            "갈리오"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "세주아니",
+            "이즈리얼",
+            "자야"
+        ]
+    },
+    {
+        "date": "2024.10.18",
+        "stage": "8강 2경기 3세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "잭스",
+            "아리",
+            "녹턴",
+            "제리",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "스카너",
+            "바이",
+            "세주아니",
+            "레나타 글라스크"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "사일러스",
+            "애쉬",
+            "나르",
+            "라칸",
+            "오공"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "이즈리얼",
+            "카이사",
+            "트위치"
+        ]
+    },
+    {
+        "date": "2024.10.18",
+        "stage": "8강 2경기 2세트",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "세주아니",
+            "럼블",
+            "자야",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "뽀삐",
+            "사일러스",
+            "잭스",
+            "칼리스타",
+            "이즈리얼"
+        ],
+        "lTeam_name": "Hanwha Life Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "스카너",
+            "나르",
+            "아리",
+            "카이사",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "레넥톤",
+            "바이",
+            "애쉬",
+            "렐"
+        ]
+    },
+    {
+        "date": "2024.10.18",
+        "stage": "8강 2경기 1세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "사일러스",
+            "나르",
+            "뽀삐",
+            "이즈리얼",
+            "알리스타"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "레넥톤",
+            "스카너",
+            "카이사",
+            "애쉬"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "아리",
+            "바이",
+            "럼블",
+            "렐",
+            "미스 포츈"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "잭스",
+            "자야",
+            "세주아니"
+        ]
+    },
+    {
+        "date": "2024.10.17",
+        "stage": "8강 1경기 4세트",
+        "wTeam_name": "LNG Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "레넥톤",
+            "세주아니",
+            "진",
+            "노틸러스"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "스카너",
+            "나르",
+            "브라움",
+            "레오나"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "오로라",
+            "이즈리얼",
+            "라칸",
+            "마오카이"
+        ],
+        "lTeam_bans": [
+            "럼블",
+            "사일러스",
+            "직스",
+            "카이사",
+            "애쉬"
+        ]
+    },
+    {
+        "date": "2024.10.17",
+        "stage": "8강 1경기 3세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "애쉬",
+            "나르",
+            "브라움",
+            "오리아나",
+            "마오카이"
+        ],
+        "wTeam_bans": [
+            "럼블",
+            "니코",
+            "사일러스",
+            "라칸",
+            "이즈리얼"
+        ],
+        "lTeam_name": "LNG Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "녹턴",
+            "아리",
+            "잭스",
+            "카이사",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "스카너",
+            "르블랑",
+            "브랜드"
+        ]
+    },
+    {
+        "date": "2024.10.17",
+        "stage": "8강 1경기 2세트",
+        "wTeam_name": "LNG Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "세주아니",
+            "잭스",
+            "이즈리얼",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "칼리스타",
+            "스카너",
+            "레넥톤",
+            "브라움",
+            "뽀삐"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오로라",
+            "애쉬",
+            "크산테",
+            "아무무",
+            "레나타 글라스크"
+        ],
+        "lTeam_bans": [
+            "럼블",
+            "니코",
+            "직스",
+            "카이사",
+            "라칸"
+        ]
+    },
+    {
+        "date": "2024.10.17",
+        "stage": "8강 1경기 1세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "애쉬",
+            "오리아나",
+            "나르",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "럼블",
+            "니코",
+            "사일러스",
+            "카이사",
+            "직스"
+        ],
+        "lTeam_name": "LNG Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "아리",
+            "레넥톤",
+            "녹턴",
+            "진",
+            "렐"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "이즈리얼",
+            "브라움",
+            "잭스"
+        ]
+    },
+    {
+        "date": "2024.10.14",
+        "stage": "2승2패조 3경기 3세트",
+        "wTeam_name": "FlyQuest",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "갈리오",
+            "요네",
+            "자야",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "니코",
+            "직스",
+            "잭스",
+            "라칸",
+            "칼리스타"
+        ],
+        "lTeam_name": "Team Liquid",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "세주아니",
+            "럼블",
+            "클레드",
+            "카이사",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "레넥톤",
+            "아이번",
+            "오리아나",
+            "레나타 글라스크",
+            "애쉬"
+        ]
+    },
+    {
+        "date": "2024.10.14",
+        "stage": "2승2패조 3경기 2세트",
+        "wTeam_name": "Team Liquid",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "녹턴",
+            "트리스타나",
+            "럼블",
+            "자야",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "레넥톤",
+            "아이번",
+            "오리아나",
+            "레나타 글라스크",
+            "레오나"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "크산테",
+            "아리",
+            "칼리스타",
+            "바이",
+            "세나"
+        ],
+        "lTeam_bans": [
+            "직스",
+            "니코",
+            "스카너",
+            "애쉬",
+            "카이사"
+        ]
+    },
+    {
+        "date": "2024.10.14",
+        "stage": "2승2패조 3경기 1세트",
+        "wTeam_name": "FlyQuest",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "오리아나",
+            "애쉬",
+            "크산테",
+            "룰루"
+        ],
+        "wTeam_bans": [
+            "직스",
+            "카이사",
+            "니코",
+            "루시안",
+            "렐"
+        ],
+        "lTeam_name": "Team Liquid",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "신 짜오",
+            "잭스",
+            "신드라",
+            "진",
+            "탐 켄치"
+        ],
+        "lTeam_bans": [
+            "아이번",
+            "레넥톤",
+            "레오나",
+            "레나타 글라스크",
+            "우르곳"
+        ]
+    },
+    {
+        "date": "2024.10.14",
+        "stage": "2승2패조 2경기 3세트",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "럼블",
+            "렐",
+            "사일러스",
+            "이즈리얼"
+        ],
+        "wTeam_bans": [
+            "뽀삐",
+            "나르",
+            "요네",
+            "레나타 글라스크",
+            "니코"
+        ],
+        "lTeam_name": "G2 Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "신 짜오",
+            "레넥톤",
+            "칼리스타",
+            "타릭",
+            "라이즈"
+        ],
+        "lTeam_bans": [
+            "잭스",
+            "아리",
+            "오로라",
+            "애쉬",
+            "미스 포츈"
+        ]
+    },
+    {
+        "date": "2024.10.14",
+        "stage": "2승2패조 2경기 2세트",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "야스오",
+            "사일러스",
+            "이즈리얼",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "아리",
+            "잭스",
+            "애쉬",
+            "뽀삐",
+            "카이사"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "나르",
+            "니코",
+            "신 짜오",
+            "자야",
+            "레나타 글라스크"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "칼리스타",
+            "드레이븐",
+            "바루스"
+        ]
+    },
+    {
+        "date": "2024.10.14",
+        "stage": "2승2패조 2경기 1세트",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "오리아나",
+            "녹턴",
+            "나르",
+            "미스 포츈",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "아리",
+            "애쉬",
+            "니코",
+            "자야",
+            "이즈리얼"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "스카너",
+            "르블랑",
+            "카이사",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "칼리스타",
+            "드레이븐",
+            "뽀삐"
+        ]
+    },
+    {
+        "date": "2024.10.13",
+        "stage": "2승2패조 1경기 3세트",
+        "wTeam_name": "Dplus KIA",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "바이",
+            "렐",
+            "미스 포츈",
+            "그라가스"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "오리아나",
+            "레넥톤",
+            "뽀삐",
+            "레오나"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "이즈리얼",
+            "오로라",
+            "나르",
+            "모르가나",
+            "브라움"
+        ],
+        "lTeam_bans": [
+            "르블랑",
+            "칼리스타",
+            "직스",
+            "카이사",
+            "럼블"
+        ]
+    },
+    {
+        "date": "2024.10.13",
+        "stage": "2승2패조 1경기 2세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "이즈리얼",
+            "나르",
+            "브랜드",
+            "알리스타"
+        ],
+        "wTeam_bans": [
+            "바이",
+            "칼리스타",
+            "르블랑",
+            "잭스",
+            "렐"
+        ],
+        "lTeam_name": "Dplus KIA",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오로라",
+            "녹턴",
+            "카이사",
+            "카밀",
+            "노틸러스"
+        ],
+        "lTeam_bans": [
+            "애쉬",
+            "스카너",
+            "세주아니",
+            "레오나",
+            "마오카이"
+        ]
+    },
+    {
+        "date": "2024.10.13",
+        "stage": "2승2패조 1경기 1세트",
+        "wTeam_name": "Dplus KIA",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "칼리스타",
+            "르블랑",
+            "레나타 글라스크",
+            "리 신",
+            "럼블"
+        ],
+        "wTeam_bans": [
+            "애쉬",
+            "스카너",
+            "오로라",
+            "렐",
+            "라칸"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오리아나",
+            "녹턴",
+            "잭스",
+            "케이틀린",
+            "럭스"
+        ],
+        "lTeam_bans": [
+            "바이",
+            "나르",
+            "요네",
+            "크산테",
+            "그라가스"
+        ]
+    },
+    {
+        "date": "2024.10.13",
+        "stage": "1승2패조 3경기 3세트",
+        "wTeam_name": "GAM Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "잭스",
+            "오공",
+            "아칼리",
+            "진",
+            "뽀삐"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "직스",
+            "카이사",
+            "칼리스타",
+            "루시안"
+        ],
+        "lTeam_name": "Team Liquid",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "크산테",
+            "녹턴",
+            "니코",
+            "이즈리얼",
+            "라칸"
+        ],
+        "lTeam_bans": [
+            "쉬바나",
+            "오로라",
+            "요네",
+            "자야",
+            "미스 포츈"
+        ]
+    },
+    {
+        "date": "2024.10.13",
+        "stage": "1승2패조 3경기 2세트",
+        "wTeam_name": "Team Liquid",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "녹턴",
+            "니코",
+            "카이사",
+            "라칸",
+            "레넥톤"
+        ],
+        "wTeam_bans": [
+            "요네",
+            "쉬바나",
+            "오로라",
+            "킨드레드",
+            "오공"
+        ],
+        "lTeam_name": "GAM Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오리아나",
+            "애쉬",
+            "브라움",
+            "나르",
+            "바이"
+        ],
+        "lTeam_bans": [
+            "스카너",
+            "직스",
+            "잭스",
+            "렐",
+            "레오나"
+        ]
+    },
+    {
+        "date": "2024.10.13",
+        "stage": "1승2패조 3경기 1세트",
+        "wTeam_name": "Team Liquid",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "오로라",
+            "이즈리얼",
+            "렐",
+            "트리스타나",
+            "마오카이"
+        ],
+        "wTeam_bans": [
+            "요네",
+            "쉬바나",
+            "녹턴",
+            "오공",
+            "사일러스"
+        ],
+        "lTeam_name": "GAM Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "애쉬",
+            "브라움",
+            "바이",
+            "오리아나"
+        ],
+        "lTeam_bans": [
+            "스카너",
+            "직스",
+            "카이사",
+            "크산테",
+            "나르"
+        ]
+    },
+    {
+        "date": "2024.10.12",
+        "stage": "1승2패조 2경기 3세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "아리",
+            "이즈리얼",
+            "라칸",
+            "나르"
+        ],
+        "wTeam_bans": [
+            "아이번",
+            "칼리스타",
+            "뽀삐",
+            "카이사",
+            "사일러스"
+        ],
+        "lTeam_name": "Fnatic",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "잭스",
+            "렐",
+            "바이",
+            "직스",
+            "스웨인"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "오리아나",
+            "브라움",
+            "럼블"
+        ]
+    },
+    {
+        "date": "2024.10.12",
+        "stage": "1승2패조 2경기 2세트",
+        "wTeam_name": "WeiboGaming TapTap",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "오리아나",
+            "잭스",
+            "이즈리얼",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "아이번",
+            "칼리스타",
+            "뽀삐",
+            "크산테",
+            "카이사"
+        ],
+        "lTeam_name": "Fnatic",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "렐",
+            "바이",
+            "아리",
+            "럼블",
+            "미스 포츈"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "애쉬",
+            "알리스타",
+            "자야"
+        ]
+    },
+    {
+        "date": "2024.10.12",
+        "stage": "1승2패조 2경기 1세트",
+        "wTeam_name": "Fnatic",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "렐",
+            "잭스",
+            "바루스",
+            "신드라"
+        ],
+        "wTeam_bans": [
+            "뽀삐",
+            "칼리스타",
+            "오로라",
+            "애쉬",
+            "이즈리얼"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "레넥톤",
+            "루시안",
+            "니달리",
+            "미스 포츈",
+            "레오나"
+        ],
+        "lTeam_bans": [
+            "아이번",
+            "오리아나",
+            "요네",
+            "직스",
+            "카이사"
+        ]
+    },
+    {
+        "date": "2024.10.12",
+        "stage": "1승2패조 1경기 2세트",
+        "wTeam_name": "PSG Talon",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "스카너",
+            "스몰더",
+            "뽀삐",
+            "자야",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "나르",
+            "아리",
+            "니코",
+            "신드라",
+            "트리스타나"
+        ],
+        "lTeam_name": "BILIBILI GAMING DREAMSMART",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "잭스",
+            "세주아니",
+            "카이사",
+            "제이스",
+            "노틸러스"
+        ],
+        "lTeam_bans": [
+            "럼블",
+            "요네",
+            "오로라",
+            "애쉬",
+            "레나타 글라스크"
+        ]
+    },
+    {
+        "date": "2024.10.12",
+        "stage": "1승2패조 1경기 1세트",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "오로라",
+            "잭스",
+            "오공",
+            "레오나",
+            "미스 포츈"
+        ],
+        "wTeam_bans": [
+            "럼블",
+            "바이",
+            "스카너",
+            "카이사",
+            "칼리스타"
+        ],
+        "lTeam_name": "PSG Talon",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "요네",
+            "세주아니",
+            "케넨",
+            "렐",
+            "이즈리얼"
+        ],
+        "lTeam_bans": [
+            "나르",
+            "아리",
+            "녹턴",
+            "애쉬",
+            "라칸"
+        ]
+    },
+    {
+        "date": "2024.10.11",
+        "stage": "2승1패조 3경기 2세트",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "녹턴",
+            "오리아나",
+            "나르",
+            "카이사",
+            "노틸러스"
+        ],
+        "wTeam_bans": [
+            "레나타 글라스크",
+            "칼리스타",
+            "스카너",
+            "브라움",
+            "자야"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "아리",
+            "바이",
+            "잭스",
+            "진",
+            "레오나"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "브랜드",
+            "뽀삐",
+            "렐"
+        ]
+    },
+    {
+        "date": "2024.10.11",
+        "stage": "2승1패조 3경기 1세트",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "녹턴",
+            "오리아나",
+            "잭스",
+            "드레이븐",
+            "노틸러스"
+        ],
+        "wTeam_bans": [
+            "레나타 글라스크",
+            "칼리스타",
+            "브라움",
+            "자야",
+            "탐 켄치"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "아리",
+            "스카너",
+            "그라가스",
+            "진",
+            "레오나"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "브랜드",
+            "렐",
+            "카이사"
+        ]
+    },
+    {
+        "date": "2024.10.11",
+        "stage": "2승1패조 2경기 3세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스카너",
+            "자야",
+            "사일러스",
+            "뽀삐",
+            "나르"
+        ],
+        "wTeam_bans": [
+            "아이번",
+            "레넥톤",
+            "칼리스타",
+            "올라프",
+            "레오나"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "카이사",
+            "바이",
+            "카시오페아",
+            "렐",
+            "사이온"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "잭스",
+            "라칸",
+            "알리스타"
+        ]
+    },
+    {
+        "date": "2024.10.11",
+        "stage": "2승1패조 2경기 2세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "레넥톤",
+            "자이라",
+            "이즈리얼",
+            "뽀삐",
+            "야스오"
+        ],
+        "wTeam_bans": [
+            "아이번",
+            "카시오페아",
+            "오리아나",
+            "아무무",
+            "세주아니"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "칼리스타",
+            "올라프",
+            "레오나",
+            "누누와 윌럼프",
+            "흐웨이"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "요네",
+            "애쉬",
+            "브라움",
+            "스몰더"
+        ]
+    },
+    {
+        "date": "2024.10.11",
+        "stage": "2승1패조 2경기 1세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "세주아니",
+            "잭스",
+            "카이사",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "오리아나",
+            "아이번",
+            "레넥톤",
+            "레오나",
+            "뽀삐"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "칼리스타",
+            "카시오페아",
+            "아무무",
+            "우르곳",
+            "레나타 글라스크"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "직스",
+            "애쉬",
+            "라칸",
+            "알리스타"
+        ]
+    },
+    {
+        "date": "2024.10.10",
+        "stage": "2승1패조 1경기 2세트",
+        "wTeam_name": "Dplus KIA",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "세주아니",
+            "잭스",
+            "레오나",
+            "미스 포츈"
+        ],
+        "wTeam_bans": [
+            "레넥톤",
+            "럼블",
+            "애쉬",
+            "뽀삐",
+            "레나타 글라스크"
+        ],
+        "lTeam_name": "Top Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "오로라",
+            "스카너",
+            "크산테",
+            "렐",
+            "칼리스타"
+        ],
+        "lTeam_bans": [
+            "나르",
+            "바이",
+            "마오카이",
+            "직스",
+            "카이사"
+        ]
+    },
+    {
+        "date": "2024.10.10",
+        "stage": "2승1패조 1경기 1세트",
+        "wTeam_name": "Top Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "오로라",
+            "크산테",
+            "신 짜오",
+            "애쉬",
+            "브라움"
+        ],
+        "wTeam_bans": [
+            "나르",
+            "바이",
+            "르블랑",
+            "사일러스",
+            "카이사"
+        ],
+        "lTeam_name": "Dplus KIA",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "잭스",
+            "스카너",
+            "렐",
+            "오리아나",
+            "스몰더"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "레넥톤",
+            "럼블",
+            "뽀삐",
+            "레나타 글라스크"
+        ]
+    },
+    {
+        "date": "2024.10.08",
+        "stage": "2패조 2경기 2세트",
+        "wTeam_name": "paiN Gaming",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "녹턴",
+            "오리아나",
+            "레넥톤",
+            "진",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "직스",
+            "잭스",
+            "카이사",
+            "칼리스타",
+            "뽀삐"
+        ],
+        "lTeam_name": "Team Liquid",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "나르",
+            "스카너",
+            "니코",
+            "이즈리얼",
+            "레오나"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "루시안",
+            "오로라",
+            "애쉬",
+            "자야"
+        ]
+    },
+    {
+        "date": "2024.10.08",
+        "stage": "2패조 2경기 1세트",
+        "wTeam_name": "Team Liquid",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "잭스",
+            "카이사",
+            "렐",
+            "바이",
+            "아리"
+        ],
+        "wTeam_bans": [
+            "요네",
+            "루시안",
+            "스카너",
+            "칼리스타",
+            "자야"
+        ],
+        "lTeam_name": "paiN Gaming",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "나르",
+            "녹턴",
+            "오리아나",
+            "이즈리얼",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "직스",
+            "오로라",
+            "세주아니",
+            "니코",
+            "마오카이"
+        ]
+    },
+    {
+        "date": "2024.10.07",
+        "stage": "2패조 1경기 3세트",
+        "wTeam_name": "MAD Lions",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "세주아니",
+            "나르",
+            "카이사",
+            "노틸러스"
+        ],
+        "wTeam_bans": [
+            "쉬바나",
+            "뽀삐",
+            "오공",
+            "렐",
+            "미스 포츈"
+        ],
+        "lTeam_name": "GAM Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "오로라",
+            "녹턴",
+            "아리",
+            "칼리스타",
+            "브라움"
+        ],
+        "lTeam_bans": [
+            "스카너",
+            "니달리",
+            "직스",
+            "애쉬",
+            "이즈리얼"
+        ]
+    },
+    {
+        "date": "2024.10.07",
+        "stage": "2패조 1경기 2세트",
+        "wTeam_name": "GAM Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "오공",
+            "케넨",
+            "미스 포츈",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "니달리",
+            "직스",
+            "칼리스타",
+            "진"
+        ],
+        "lTeam_name": "MAD Lions",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "럼블",
+            "바이",
+            "아리",
+            "자야",
+            "라칸"
+        ],
+        "lTeam_bans": [
+            "쉬바나",
+            "오로라",
+            "뽀삐",
+            "이즈리얼",
+            "애쉬"
+        ]
+    },
+    {
+        "date": "2024.10.07",
+        "stage": "2패조 1경기 1세트",
+        "wTeam_name": "MAD Lions",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "마오카이",
+            "직스",
+            "노틸러스",
+            "나르"
+        ],
+        "wTeam_bans": [
+            "쉬바나",
+            "럼블",
+            "뽀삐",
+            "잭스",
+            "렐"
+        ],
+        "lTeam_name": "GAM Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "아칼리",
+            "오공",
+            "카이사",
+            "라칸",
+            "스몰더"
+        ],
+        "lTeam_bans": [
+            "스카너",
+            "니달리",
+            "오로라",
+            "알리스타",
+            "레오나"
+        ]
+    },
+    {
+        "date": "2024.10.07",
+        "stage": "1승1패조 4경기",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "칼리스타",
+            "갈리오",
+            "렐",
+            "오리아나",
+            "녹턴"
+        ],
+        "wTeam_bans": [
+            "애쉬",
+            "뽀삐",
+            "니달리",
+            "스카너",
+            "루시안"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "진",
+            "럼블",
+            "레오나",
+            "마오카이",
+            "트리스타나"
+        ],
+        "lTeam_bans": [
+            "브랜드",
+            "요네",
+            "오로라",
+            "야스오",
+            "바이"
+        ]
+    },
+    {
+        "date": "2024.10.06",
+        "stage": "1승1패조 3경기",
+        "wTeam_name": "FlyQuest",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "레넥톤",
+            "아이번",
+            "카시오페아",
+            "카이사",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "럼블",
+            "오로라",
+            "잭스",
+            "직스",
+            "라칸"
+        ],
+        "lTeam_name": "PSG Talon",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "바이",
+            "아리",
+            "나르",
+            "진",
+            "렐"
+        ],
+        "lTeam_bans": [
+            "오리아나",
+            "요네",
+            "칼리스타",
+            "애쉬",
+            "자야"
+        ]
+    },
+    {
+        "date": "2024.10.06",
+        "stage": "1승1패조 2경기",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "아리",
+            "스카너",
+            "잭스",
+            "뽀삐",
+            "진"
+        ],
+        "wTeam_bans": [
+            "오리아나",
+            "세주아니",
+            "녹턴",
+            "레나타 글라스크",
+            "애쉬"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "나르",
+            "바이",
+            "사일러스",
+            "칼리스타",
+            "니코"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "오로라",
+            "스몰더",
+            "카이사",
+            "직스"
+        ]
+    },
+    {
+        "date": "2024.10.06",
+        "stage": "1승1패조 1경기",
+        "wTeam_name": "Top Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "럼블",
+            "세주아니",
+            "미스 포츈",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "오리아나",
+            "르블랑",
+            "바이",
+            "카이사",
+            "루시안"
+        ],
+        "lTeam_name": "Fnatic",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "스몰더",
+            "스카너",
+            "크산테",
+            "진",
+            "레오나"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "직스",
+            "자이라",
+            "애쉬",
+            "칼리스타"
+        ]
+    },
+    {
+        "date": "2024.10.06",
+        "stage": "2승조 2경기 3세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "스몰더",
+            "세주아니",
+            "나르",
+            "바루스",
+            "레나타 글라스크"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "니달리",
+            "직스",
+            "칼리스타",
+            "애쉬"
+        ],
+        "lTeam_name": "Gen.G eSports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "오로라",
+            "녹턴",
+            "아리",
+            "레오나",
+            "트위치"
+        ],
+        "lTeam_bans": [
+            "잭스",
+            "요네",
+            "마오카이",
+            "이즈리얼",
+            "카이사"
+        ]
+    },
+    {
+        "date": "2024.10.06",
+        "stage": "2승조 2경기 2세트",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "오로라",
+            "녹턴",
+            "아리",
+            "칼리스타",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "잭스",
+            "스몰더",
+            "마오카이",
+            "이즈리얼",
+            "카이사"
+        ],
+        "lTeam_name": "Hanwha Life Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "바이",
+            "럼블",
+            "아칼리",
+            "진",
+            "렐"
+        ],
+        "lTeam_bans": [
+            "니달리",
+            "직스",
+            "요네",
+            "레나타 글라스크",
+            "자야"
+        ]
+    },
+    {
+        "date": "2024.10.06",
+        "stage": "2승조 2경기 1세트",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "세주아니",
+            "나르",
+            "카이사",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "니달리",
+            "직스",
+            "스카너",
+            "칼리스타",
+            "애쉬"
+        ],
+        "lTeam_name": "Gen.G eSports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오로라",
+            "녹턴",
+            "아리",
+            "바루스",
+            "레나타 글라스크"
+        ],
+        "lTeam_bans": [
+            "잭스",
+            "마오카이",
+            "스몰더",
+            "이즈리얼",
+            "진"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "2승조 1경기 2세트",
+        "wTeam_name": "Dplus KIA",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "바이",
+            "직스",
+            "뽀삐",
+            "아리",
+            "크산테"
+        ],
+        "wTeam_bans": [
+            "럼블",
+            "레넥톤",
+            "요네",
+            "노틸러스",
+            "레오나"
+        ],
+        "lTeam_name": "LNG Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "카밀",
+            "세주아니",
+            "카이사",
+            "렐",
+            "갈리오"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "나르",
+            "잭스",
+            "스몰더",
+            "트리스타나"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "2승조 1경기 1세트",
+        "wTeam_name": "Dplus KIA",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "직스",
+            "마오카이",
+            "스몰더",
+            "알리스타",
+            "올라프"
+        ],
+        "wTeam_bans": [
+            "럼블",
+            "요네",
+            "녹턴",
+            "아리",
+            "라칸"
+        ],
+        "lTeam_name": "LNG Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "레넥톤",
+            "바이",
+            "카이사",
+            "렐",
+            "사일러스"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "나르",
+            "잭스",
+            "크산테",
+            "뽀삐"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "1패조 4경기",
+        "wTeam_name": "PSG Talon",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "마오카이",
+            "럼블",
+            "카이사",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "니달리",
+            "크산테",
+            "자르반 4세",
+            "레넥톤",
+            "나르"
+        ],
+        "lTeam_name": "MAD Lions",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "직스",
+            "바이",
+            "스몰더",
+            "갈리오",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "스카너",
+            "세주아니",
+            "진",
+            "이즈리얼"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "1패조 3경기",
+        "wTeam_name": "Fnatic",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "자르반 4세",
+            "직스",
+            "레오나",
+            "나르"
+        ],
+        "wTeam_bans": [
+            "쉬바나",
+            "럼블",
+            "오로라",
+            "이즈리얼",
+            "진"
+        ],
+        "lTeam_name": "GAM Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "스몰더",
+            "자이라",
+            "잭스",
+            "렐",
+            "카이사"
+        ],
+        "lTeam_bans": [
+            "스카너",
+            "루시안",
+            "아이번",
+            "크산테",
+            "뽀삐"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "1승조 4경기",
+        "wTeam_name": "Dplus KIA",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "바이",
+            "요네",
+            "스몰더",
+            "사일러스",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "레넥톤",
+            "아이번",
+            "오리아나",
+            "잭스",
+            "스카너"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "애쉬",
+            "신드라",
+            "레오나",
+            "아무무",
+            "다리우스"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "직스",
+            "럼블",
+            "라칸",
+            "알리스타"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "1패조 2경기",
+        "wTeam_name": "T1",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "바이",
+            "럼블",
+            "드레이븐",
+            "레나타 글라스크"
+        ],
+        "wTeam_bans": [
+            "루시안",
+            "잭스",
+            "스카너",
+            "자야",
+            "렐"
+        ],
+        "lTeam_name": "paiN Gaming",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "세주아니",
+            "아칼리",
+            "올라프",
+            "칼리스타",
+            "니코"
+        ],
+        "lTeam_bans": [
+            "오리아나",
+            "오로라",
+            "나르",
+            "진",
+            "애쉬"
+        ]
+    },
+    {
+        "date": "2024.10.05",
+        "stage": "1패조 1경기",
+        "wTeam_name": "Team Liquid",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "루시안",
+            "나미",
+            "세주아니",
+            "신드라",
+            "레넥톤"
+        ],
+        "wTeam_bans": [
+            "애쉬",
+            "요네",
+            "바이",
+            "르블랑",
+            "잭스"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "스카너",
+            "칼리스타",
+            "레나타 글라스크",
+            "오리아나",
+            "나르"
+        ],
+        "lTeam_bans": [
+            "직스",
+            "오로라",
+            "럼블",
+            "크산테",
+            "뽀삐"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "1승조 3경기",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "릴리아",
+            "뽀삐",
+            "바루스",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "아칼리",
+            "바이",
+            "나르",
+            "직스",
+            "레나타 글라스크"
+        ],
+        "lTeam_name": "Hanwha Life Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "세주아니",
+            "잭스",
+            "스몰더",
+            "애쉬",
+            "브라움"
+        ],
+        "lTeam_bans": [
+            "브랜드",
+            "자이라",
+            "오로라",
+            "진",
+            "칼리스타"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "1승조 2경기",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "마오카이",
+            "나르",
+            "카이사",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "아이번",
+            "애쉬",
+            "레넥톤",
+            "녹턴",
+            "스카너"
+        ],
+        "lTeam_name": "Top Esports",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "럼블",
+            "진",
+            "루시안",
+            "세주아니",
+            "렐"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "직스",
+            "스몰더",
+            "칼리스타",
+            "이즈리얼"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "1승조 1경기",
+        "wTeam_name": "BILIBILI GAMING DREAMSMART",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "오리아나",
+            "바이",
+            "크산테",
+            "진",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "레넥톤",
+            "킨드레드",
+            "직스"
+        ],
+        "lTeam_name": "LNG Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "럼블",
+            "녹턴",
+            "요네",
+            "애쉬",
+            "뽀삐"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "나르",
+            "잭스",
+            "이즈리얼",
+            "카이사"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "8경기",
+        "wTeam_name": "G2 Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "브랜드",
+            "렐",
+            "진",
+            "야스오"
+        ],
+        "wTeam_bans": [
+            "잭스",
+            "루시안",
+            "아칼리",
+            "애쉬",
+            "칼리스타"
+        ],
+        "lTeam_name": "paiN Gaming",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "오로라",
+            "마오카이",
+            "스몰더",
+            "자야",
+            "라칸"
+        ],
+        "lTeam_bans": [
+            "뽀삐",
+            "오리아나",
+            "세주아니",
+            "레넥톤",
+            "드레이븐"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "7경기",
+        "wTeam_name": "GAM Esports",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "바이",
+            "뽀삐",
+            "진",
+            "아칼리",
+            "나르"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "애쉬",
+            "레넥톤",
+            "잭스",
+            "크산테"
+        ],
+        "lTeam_name": "FlyQuest",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "칼리스타",
+            "아이번",
+            "레오나",
+            "오리아나",
+            "사이온"
+        ],
+        "lTeam_bans": [
+            "오로라",
+            "쉬바나",
+            "직스",
+            "아리",
+            "럼블"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "6경기",
+        "wTeam_name": "Hanwha Life Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "요네",
+            "마오카이",
+            "나르",
+            "자야",
+            "라칸"
+        ],
+        "wTeam_bans": [
+            "스카너",
+            "오로라",
+            "르블랑",
+            "진",
+            "노틸러스"
+        ],
+        "lTeam_name": "PSG Talon",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "세주아니",
+            "잭스",
+            "아칼리",
+            "카이사",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "뽀삐",
+            "직스",
+            "바이",
+            "애쉬",
+            "이즈리얼"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "5경기",
+        "wTeam_name": "Team Liquid",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "스카너",
+            "잭스",
+            "카이사",
+            "니코",
+            "레오나"
+        ],
+        "wTeam_bans": [
+            "요네",
+            "뽀삐",
+            "레넥톤",
+            "마오카이",
+            "알리스타"
+        ],
+        "lTeam_name": "LNG Esports",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "럼블",
+            "진",
+            "트리스타나",
+            "렐",
+            "세주아니"
+        ],
+        "lTeam_bans": [
+            "직스",
+            "오로라",
+            "루시안",
+            "탈리야",
+            "노틸러스"
+        ]
+    },
+    {
+        "date": "2024.10.04",
+        "stage": "4경기",
+        "wTeam_name": "Fnatic",
+        "wTeam_result": "L",
+        "wTeam_picks": [
+            "요네",
+            "자이라",
+            "레넥톤",
+            "렐",
+            "카이사"
+        ],
+        "wTeam_bans": [
+            "바이",
+            "직스",
+            "오로라",
+            "신드라",
+            "레오나"
+        ],
+        "lTeam_name": "Dplus KIA",
+        "lTeam_result": "W",
+        "lTeam_picks": [
+            "스카너",
+            "나르",
+            "이즈리얼",
+            "르블랑",
+            "브라움"
+        ],
+        "lTeam_bans": [
+            "오리아나",
+            "아이번",
+            "스몰더",
+            "애쉬",
+            "칼리스타"
+        ]
+    },
+    {
+        "date": "2024.10.03",
+        "stage": "3경기",
+        "wTeam_name": "Gen.G eSports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "스몰더",
+            "마오카이",
+            "럼블",
+            "칼리스타",
+            "레나타 글라스크"
+        ],
+        "wTeam_bans": [
+            "오리아나",
+            "레넥톤",
+            "애쉬",
+            "나미",
+            "니달리"
+        ],
+        "lTeam_name": "WeiboGaming TapTap",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "뽀삐",
+            "잭스",
+            "루시안",
+            "징크스",
+            "아이번"
+        ],
+        "lTeam_bans": [
+            "직스",
+            "오로라",
+            "요네",
+            "블리츠크랭크",
+            "진"
+        ]
+    },
+    {
+        "date": "2024.10.03",
+        "stage": "2경기",
+        "wTeam_name": "Top Esports",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "오로라",
+            "진",
+            "레넥톤",
+            "렐",
+            "스카너"
+        ],
+        "wTeam_bans": [
+            "세주아니",
+            "오리아나",
+            "나르",
+            "레나타 글라스크",
+            "비에고"
+        ],
+        "lTeam_name": "T1",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "애쉬",
+            "니코",
+            "잭스",
+            "라칸",
+            "오공"
+        ],
+        "lTeam_bans": [
+            "요네",
+            "트리스타나",
+            "직스",
+            "뽀삐",
+            "알리스타"
+        ]
+    },
+    {
+        "date": "2024.10.03",
+        "stage": "1경기",
+        "wTeam_name": "Bilibili Gaming",
+        "wTeam_result": "W",
+        "wTeam_picks": [
+            "바이",
+            "나르",
+            "아리",
+            "카이사",
+            "렐"
+        ],
+        "wTeam_bans": [
+            "니달리",
+            "징크스",
+            "애쉬",
+            "레나타 글라스크",
+            "뽀삐"
+        ],
+        "lTeam_name": "MAD Lions",
+        "lTeam_result": "L",
+        "lTeam_picks": [
+            "스카너",
+            "신드라",
+            "크산테",
+            "트리스타나",
+            "알리스타"
+        ],
+        "lTeam_bans": [
+            "직스",
+            "오로라",
+            "이즈리얼",
+            "진",
+            "루시안"
+        ]
+    }
+]
