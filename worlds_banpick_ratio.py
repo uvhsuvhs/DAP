@@ -1,4 +1,7 @@
 import json
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 from collections import Counter
 
 # JSON 데이터 읽기
@@ -67,3 +70,37 @@ for champ in all_champions:
         oppo_ban_ratio[champ] = oppo_ban_counts.get(champ, 0) / total_bans
     else:
         oppo_ban_ratio[champ] = 0
+
+# 픽 데이터프레임 생성
+df_picks = pd.DataFrame({
+    "T1 Pick Ratio": [t1_pick_ratio.get(champ, 0) for champ in all_champions],
+    "Opponent Pick Ratio": [oppo_pick_ratio.get(champ, 0) for champ in all_champions],
+}, index=all_champions)
+
+# 밴 데이터프레임 생성
+df_bans = pd.DataFrame({
+    "T1 Ban Ratio": [t1_ban_ratio.get(champ, 0) for champ in all_champions],
+    "Opponent Ban Ratio": [oppo_ban_ratio.get(champ, 0) for champ in all_champions],
+}, index=all_champions)
+
+# 픽 비율 히트맵
+plt.figure(figsize=(14, 12))
+plt.rc('font', family='Malgun Gothic')
+sns.heatmap(df_picks, annot=True, cmap="Blues", linewidths=0.3, linecolor='black', fmt=".2f")
+plt.title("T1 vs Opponent Pick Ratios", fontsize=16, pad=20)
+plt.xlabel("Pick Ratios", fontsize=10)
+plt.ylabel("Champions", fontsize=10)
+plt.xticks(rotation=45, ha="right")
+plt.tight_layout()
+plt.show()
+
+# 밴 비율 히트맵
+plt.figure(figsize=(14, 12))
+plt.rc('font', family='Malgun Gothic')
+sns.heatmap(df_bans, annot=True, cmap="Reds", linewidths=0.3, linecolor='black', fmt=".2f")
+plt.title("T1 vs Opponent Ban Ratios", fontsize=16, pad=20)
+plt.xlabel("Ban Ratios", fontsize=10)
+plt.ylabel("Champions", fontsize=10)
+plt.xticks(rotation=45, ha="right")
+plt.tight_layout()
+plt.show()
