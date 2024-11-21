@@ -18,6 +18,10 @@ def extract_team_data(team_tag, team_class, result_class):
         team_name = team_tag.find("a", class_="teamname")
         team_data[f"{team_class}_name"] = team_name.text.strip()
 
+        # 팀 이름 오류 수정
+        if team_data[f"{team_class}_name"] == "Bilibili Gaming":
+            team_data[f"{team_class}_name"] = "BILIBILI GAMING DREAMSMART"
+
         # 승패 추출
         result_tag = team_tag.find("div", class_=result_class)
         team_data[f"{team_class}_result"] = result_tag.text.strip()
@@ -86,9 +90,9 @@ def worlds_crawl():
                     "color2 tx5"
                 )
             )
-
+            
             worlds_data.append(match_data)
-
+        
     return worlds_data
 
 if __name__ == "__main__":
