@@ -20,7 +20,7 @@ all_bans = []
 for match in data:
     all_picks.extend(match["wTeam_picks"])
     all_picks.extend(match["lTeam_picks"])
-    all_bans.extend(match["wTeam_picks"])
+    all_bans.extend(match["wTeam_bans"])
     all_bans.extend(match["lTeam_bans"])
     if match["wTeam_name"] == "T1":
         t1_picks.extend(match["wTeam_picks"])
@@ -40,6 +40,7 @@ oppo_pick_counts = Counter(oppo_picks)
 oppo_ban_counts = Counter(oppo_bans)
 all_pick_counts = Counter(all_picks)
 all_ban_counts = Counter(all_bans)
+print(all_ban_counts)
 
 # 워드클라우드 생성 함수
 def create_wordcloud(data, title, color):
