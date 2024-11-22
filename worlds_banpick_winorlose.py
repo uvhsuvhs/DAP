@@ -62,8 +62,14 @@ plt.rc('font', family='Malgun Gothic')
 # 승리: 픽 또는 밴만 된 챔피언
 # 픽된 챔피언은 초록 / 밴된 챔피언은 빨강 계열의 색상으로 대비
 plt.figure(figsize=(14, 8))
-sns.barplot(x=list(picks_only_win), y=[t1_win_pick_counts[ch] for ch in picks_only_win], color='olivedrab', label="Picks only win")
-sns.barplot(x=list(bans_only_win), y=[t1_win_ban_counts[ch] for ch in bans_only_win], color='firebrick', label="Bans only win")
+sns.barplot(x=list(picks_only_win), 
+            y=[t1_win_pick_counts[ch] for ch in picks_only_win], 
+            color='olivedrab', 
+            label="Picks only win")
+sns.barplot(x=list(bans_only_win), 
+            y=[t1_win_ban_counts[ch] for ch in bans_only_win], 
+            color='firebrick', 
+            label="Bans only win")
 plt.title("T1 Win : Picks or Bans Only")
 plt.xticks(rotation=90)
 plt.xlabel("Champion")
@@ -75,19 +81,31 @@ plt.show()
 # 승리: 픽과 밴된 챔피언
 # 픽된 챔피언은 초록 / 밴된 챔피언은 빨강 계열의 색상으로 대비
 df_win_stacked.set_index("champion")[["pick_count", "ban_count"]].plot(
-    kind="bar", stacked=True, figsize=(14, 8), color=["olivedrab", "firebrick"])
+    kind="bar", 
+    stacked=True, 
+    figsize=(14, 8), 
+    color=["olivedrab", "firebrick"], 
+    legend=False
+)
 plt.title("T1 Win : Picks and Bans")
 plt.xticks(rotation=90)
 plt.xlabel("Champion")
 plt.ylabel("Frequency")
+plt.legend(["Picks", "Bans"]) 
 plt.tight_layout()
 plt.show()
 
 # 패배: 픽 또는 밴만 된 챔피언
 # 픽된 챔피언은 노랑 / 밴된 챔피언은 파랑 계열의 색상으로 대비
 plt.figure(figsize=(14, 8))
-sns.barplot(x=list(picks_only_lose), y=[t1_lose_pick_counts[ch] for ch in picks_only_lose], color='gold', label="Picks only lose")
-sns.barplot(x=list(bans_only_lose), y=[t1_lose_ban_counts[ch] for ch in bans_only_lose], color='darkblue', label="Bans only lose")
+sns.barplot(x=list(picks_only_lose), 
+            y=[t1_lose_pick_counts[ch] for ch in picks_only_lose], 
+            color='gold', 
+            label="Picks only lose")
+sns.barplot(x=list(bans_only_lose), 
+            y=[t1_lose_ban_counts[ch] for ch in bans_only_lose], 
+            color='darkblue', 
+            label="Bans only lose")
 plt.title("T1 Lose : Picks or Bans Only")
 plt.xticks(rotation=90)
 plt.xlabel("Champion")
@@ -99,10 +117,16 @@ plt.show()
 # 패배: 픽과 밴된 챔피언
 # 픽된 챔피언은 노랑 / 밴된 챔피언은 파랑 계열의 색상으로 대비
 df_lose_stacked.set_index("champion")[["pick_count", "ban_count"]].plot(
-    kind="bar", stacked=True, figsize=(14, 8), color=["gold", "darkblue"])
+    kind="bar", 
+    stacked=True, 
+    figsize=(14, 8), 
+    color=["gold", "darkblue"], 
+    legend=False
+)
 plt.title("T1 Lose : Picks and Bans")
 plt.xticks(rotation=90)
 plt.xlabel("Champion")
 plt.ylabel("Frequency")
+plt.legend(["Picks", "Bans"])
 plt.tight_layout()
 plt.show()
