@@ -30,42 +30,79 @@ for match in data:
         t1_lose_picks.extend(match["wTeam_picks"])
         t1_lose_bans.extend(match["wTeam_bans"])
 
-# T1 승리/패배 시 픽/밴 빈도 
+# T1 승리/패배 시 픽/밴 빈도 계산
 t1_win_pick_counts = Counter(t1_win_picks)
 t1_win_ban_counts = Counter(t1_win_bans)
-t1_loss_pick_counts = Counter(t1_lose_picks)
-t1_loss_ban_counts = Counter(t1_lose_bans)
+t1_lose_pick_counts = Counter(t1_lose_picks)
+t1_lose_ban_counts = Counter(t1_lose_bans)
 
-# 데이터프레임 변환
-df_win = pd.DataFrame({
-    'champion': list(t1_win_pick_counts.keys()) + list(t1_win_ban_counts.keys()),
-    'count': list(t1_win_pick_counts.values()) + list(t1_win_ban_counts.values()),
-    'type': ['pick'] * len(t1_win_pick_counts) + ['ban'] * len(t1_win_ban_counts)
-})
+# 승리 데이터 필터링
+picks_only_win = set(t1_win_pick_counts.keys()) - set(t1_win_ban_counts.keys())
+bans_only_win = set(t1_win_ban_counts.keys()) - set(t1_win_pick_counts.keys())
+pick_and_ban_win = set(t1_win_pick_counts.keys()) & set(t1_win_ban_counts.keys())
 
-df_loss = pd.DataFrame({
-    'champion': list(t1_loss_pick_counts.keys()) + list(t1_loss_ban_counts.keys()),
-    'count': list(t1_loss_pick_counts.values()) + list(t1_loss_ban_counts.values()),
-    'type': ['pick'] * len(t1_loss_pick_counts) + ['ban'] * len(t1_loss_ban_counts)
-})
+# 패배 데이터 필터링
+picks_only_lose = set(t1_lose_pick_counts.keys()) - set(t1_lose_ban_counts.keys())
+bans_only_lose = set(t1_lose_ban_counts.keys()) - set(t1_lose_pick_counts.keys())
+pick_and_ban_lose = set(t1_lose_pick_counts.keys()) & set(t1_lose_ban_counts.keys())
 
+# 스택드 바 차트 데이터 처리 함수
+def prepare_stacked_data(pick_counts, ban_counts, champions):
+    return pd.DataFrame({
+        "champion": list(champions),
+        "pick_count": [pick_counts.get(champ, 0) for champ in champions],
+        "ban_count": [ban_counts.get(champ, 0) for champ in champions],
+    })
 
-# 승리 픽/밴 막대그래프
-plt.figure(figsize=(14, 9))
-plt.rc('font', family='Malgun gothic')
-sns.barplot(x='champion', y='count', hue='type', data=df_win, palette='Blues_d')
-plt.title("T1 Win - Champion Picks and Bans")
+df_win_stacked = prepare_stacked_data(t1_win_pick_counts, t1_win_ban_counts, pick_and_ban_win)
+df_lose_stacked = prepare_stacked_data(t1_lose_pick_counts, t1_lose_ban_counts, pick_and_ban_lose)
+
+plt.rc('font', family='Malgun Gothic')
+
+# 승리: 픽 또는 밴만 된 챔피언
+# 픽된 챔피언은 초록 / 밴된 챔피언은 빨강 계열의 색상으로 대비
+plt.figure(figsize=(14, 8))
+sns.barplot(x=list(picks_only_win), y=[t1_win_pick_counts[ch] for ch in picks_only_win], color='olivedrab', label="Picks only win")
+sns.barplot(x=list(bans_only_win), y=[t1_win_ban_counts[ch] for ch in bans_only_win], color='firebrick', label="Bans only win")
+plt.title("T1 Win : Picks or Bans Only")
 plt.xticks(rotation=90)
 plt.xlabel("Champion")
 plt.ylabel("Frequency")
+plt.legend()
+plt.tight_layout()
 plt.show()
 
-# 패배 픽/밴 막대그래프
-plt.figure(figsize=(14, 9))
-plt.rc('font', family='Malgun gothic')
-sns.barplot(x='champion', y='count', hue='type', data=df_loss, palette='Reds_d')
-plt.title("T1 Lose - Champion Picks and Bans")
+# 승리: 픽과 밴된 챔피언
+# 픽된 챔피언은 초록 / 밴된 챔피언은 빨강 계열의 색상으로 대비
+df_win_stacked.set_index("champion")[["pick_count", "ban_count"]].plot(
+    kind="bar", stacked=True, figsize=(14, 8), color=["olivedrab", "firebrick"])
+plt.title("T1 Win : Picks and Bans")
 plt.xticks(rotation=90)
 plt.xlabel("Champion")
 plt.ylabel("Frequency")
+plt.tight_layout()
+plt.show()
+
+# 패배: 픽 또는 밴만 된 챔피언
+# 픽된 챔피언은 노랑 / 밴된 챔피언은 파랑 계열의 색상으로 대비
+plt.figure(figsize=(14, 8))
+sns.barplot(x=list(picks_only_lose), y=[t1_lose_pick_counts[ch] for ch in picks_only_lose], color='gold', label="Picks only lose")
+sns.barplot(x=list(bans_only_lose), y=[t1_lose_ban_counts[ch] for ch in bans_only_lose], color='darkblue', label="Bans only lose")
+plt.title("T1 Lose : Picks or Bans Only")
+plt.xticks(rotation=90)
+plt.xlabel("Champion")
+plt.ylabel("Frequency")
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+# 패배: 픽과 밴된 챔피언
+# 픽된 챔피언은 노랑 / 밴된 챔피언은 파랑 계열의 색상으로 대비
+df_lose_stacked.set_index("champion")[["pick_count", "ban_count"]].plot(
+    kind="bar", stacked=True, figsize=(14, 8), color=["gold", "darkblue"])
+plt.title("T1 Lose : Picks and Bans")
+plt.xticks(rotation=90)
+plt.xlabel("Champion")
+plt.ylabel("Frequency")
+plt.tight_layout()
 plt.show()
