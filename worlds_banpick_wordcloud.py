@@ -40,7 +40,6 @@ oppo_pick_counts = Counter(oppo_picks)
 oppo_ban_counts = Counter(oppo_bans)
 all_pick_counts = Counter(all_picks)
 all_ban_counts = Counter(all_bans)
-print(all_ban_counts)
 
 # 워드클라우드 생성 함수
 def create_wordcloud(data, title, color):
